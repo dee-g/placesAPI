@@ -1,0 +1,21 @@
+{
+  "name": "aptsearch",
+  "version": "1.0.0",
+  "description": "use places api to search for apartments in bangalore",
+  "main": "index.js",
+  "dependencies": {
+    "@google/maps": "^0.4.6",
+    "async": "^2.6.0",
+    "dotenv": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "places",
+    "google"
+  ],
+  "author": "deepika gunda",
+  "license": "ISC"
+}
